@@ -17,7 +17,7 @@ The following technologies have used for this application.
 
 ### clone the repository
 ```
-    $ git clone https://github.com/mazlum/irregular-verbs-finder/
+    $ git clone git@github.com:mazlum/firregular.git
 ```
 
 ### install dependencies
